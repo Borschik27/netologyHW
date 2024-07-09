@@ -1,7 +1,10 @@
-# netologyHW
 Решение домашнего задания 4 «Оркестрация группой Docker контейнеров на примере Docker Compose»
+
 Задача 1
+
 https://hub.docker.com/repository/docker/tastysypchik/netology/general
+
+
 Задача 2
 ```
 sypchik@netology:~$ docker ps
